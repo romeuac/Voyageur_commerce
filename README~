@@ -1,0 +1,6 @@
+Pour executer le programme:
+
+ - Ouvrir le fichier TSP_exec.zip
+ - Ouvrir le fichier tsp (fichier executable)
+ - Appuyer sur le bouton "Load" pour charger le fichier de villes (par exemple le "villes.txt")
+ - Appuyer sur le bouton de votre choix pour faire le croisement avec le algorithme PMX ou DPX
